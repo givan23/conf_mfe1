@@ -1,2 +1,2 @@
-# conf_widget_1
-conf_widget_1
+# conf_mfe1
+conf_mfe1
